@@ -1,0 +1,13 @@
+﻿field name;english description;russian description;measure;okei_code;format
+rus_name;;Название товарной позиции на русском языке;;;string
+fin_name;;Название товарной позиции на финском языке;;;string
+type;;Тип мебели;;;string
+length;;Длина мебели;см.;;numeric
+width;;Ширина мебели ;см.;;numeric
+height;;Высота мебели ;см.;;numeric
+price;;Цена за единицу товара ;руб.;;numeric
+product_link ;;Ссылка на страницу товара в онлайн-магазине IKEA.ru;;;string
+article_num;;Артикул товара в каталоге IKEA;;;string
+Quantity;;Количество ;шт.;;numeric
+total_price;;Цена c учетом количества товара;руб.;;numeric
+room;;Комната, в которой мебель будет установлена;;;string
